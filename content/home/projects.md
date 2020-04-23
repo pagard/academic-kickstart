@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Digital twins"
-    tag = "*"
+    tag = "Digital twins"
   
   [[content.filter_button]]
     name = "Population-based SHM"
