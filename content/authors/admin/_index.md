@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Research Associate at the University of Sheffield, and currently involved in [DigiTwin](https://digitwin.ac.uk/), a project developing digital twins for structural dynamics applications. My interests involve combining ideas from machine learning and statistics in improving physics-based models for engineering applications.
+I'm a Research Associate at the University of Sheffield, and am currently involved in [DigiTwin](https://digitwin.ac.uk/), a project developing digital twins for structural dynamics applications. My interests involve combining ideas from machine learning and statistics in improving physics-based models for engineering applications.
 
 My current {{% staticref "files/PaulGardnerAcademicCV.pdf" %}}academic CV{{% /staticref %}} can be downloaded here.
