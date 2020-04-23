@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Paul Gardner
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,58 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dynamics Research Group
+  url: "https://www.drg.ac.uk"
+- name: University of Sheffield
+  url: "https://www.shef.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Paul is a Research Associate in the [Dynamics Research Group](http://www.drg.ac.uk). He's interested in enhancing engineering modelling with machine learning and statistics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Uncertainty Quantification
+- Digital Twins
+- Structural Health Monitoring
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: University of Sheffield
+    year: 2019
+  - course: MEng in Mechancial Engineering
+    institution: University of Sheffield
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=7m3C_oEAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Paul_Gardner10/research
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1882-9728
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/paul-gardner-84007b7a/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pagard
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Research Associate at the University of Sheffield, and currently involved in [DigiTwin](https://digitwin.ac.uk/), a project developing digital twins for structural dynamics applications. My interests involve combining ideas from machine learning and statistics in improving physics-based models for engineering applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current {{% staticref "files/PaulGardnerAcademicCV.pdf" %}}academic CV{{% /staticref %}} can be downloaded here.
