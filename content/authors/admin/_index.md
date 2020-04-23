@@ -2,8 +2,6 @@
 # Display name
 name: Paul Gardner
 
-title: Paul Gardner
-
 # Username (this should match the folder name)
 authors:
 - admin
