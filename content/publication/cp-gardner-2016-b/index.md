@@ -1,7 +1,7 @@
 ---
 title: "The development of a damage model for the use in machine learning driven SHM and comparison with conventional SHM methods"
 date: 2016-01-01
-publishDate: 2020-04-23T09:44:48.071672Z
+publishDate: 2020-05-14T13:58:18.148727Z
 authors: ["Paul Gardner", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

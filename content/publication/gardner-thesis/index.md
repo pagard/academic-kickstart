@@ -1,7 +1,7 @@
 ---
 title: "On novel approaches to model-based structural health monitoring"
 date: 2019-01-01
-publishDate: 2020-04-23T09:44:48.072669Z
+publishDate: 2020-05-14T13:58:18.151719Z
 authors: ["Paul Gardner"]
 publication_types: ["7"]
 abstract: ""

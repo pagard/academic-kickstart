@@ -1,7 +1,7 @@
 ---
 title: "Bayesian calibration and bias correction for forward model-driven SHM"
 date: 2017-01-01
-publishDate: 2020-04-23T09:44:48.070674Z
+publishDate: 2020-05-14T13:58:18.146733Z
 authors: ["Paul Gardner", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "On digital twins, mirrors and virtualisations: frameworks for model verification and validation"
 date: 2020-01-01
-publishDate: 2020-04-23T09:44:48.056711Z
+publishDate: 2020-05-14T13:58:18.110828Z
 authors: ["Keith Worden", "Elizabeth Cross", "Robert J. Barthorpe", "David J. Wagg", "Paul Gardner"]
 publication_types: ["2"]
 abstract: ""

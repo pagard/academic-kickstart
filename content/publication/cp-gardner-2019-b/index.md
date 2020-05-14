@@ -1,7 +1,7 @@
 ---
 title: "Sequential Bayesian history matching for model calibration"
 date: 2019-01-01
-publishDate: 2020-04-23T09:44:48.065688Z
+publishDate: 2020-05-14T13:58:18.141745Z
 authors: ["Paul Gardner", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

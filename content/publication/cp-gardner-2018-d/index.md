@@ -1,7 +1,7 @@
 ---
 title: "A multi-level uncertainty integration strategy for forward model-driven SHM"
 date: 2018-01-01
-publishDate: 2020-04-23T09:44:48.068679Z
+publishDate: 2020-05-14T13:58:18.144737Z
 authors: ["Paul Gardner", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

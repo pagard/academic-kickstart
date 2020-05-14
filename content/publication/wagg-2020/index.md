@@ -1,7 +1,7 @@
 ---
 title: "Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications"
 date: 2020-01-01
-publishDate: 2020-04-23T09:44:48.056711Z
+publishDate: 2020-05-14T13:58:18.111825Z
 authors: ["David J. Wagg", "Keith Worden", "Robert J. Barthorpe", "Paul Gardner"]
 publication_types: ["2"]
 abstract: ""

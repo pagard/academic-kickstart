@@ -1,7 +1,7 @@
 ---
 title: "Learning of model discrepancy for dynamics applications using Bayesian history matching"
 date: 2019-01-01
-publishDate: 2020-04-23T09:44:48.066685Z
+publishDate: 2020-05-14T13:58:18.141745Z
 authors: ["Paul Gardner", "Timothy J. Rogers", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

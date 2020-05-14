@@ -1,7 +1,7 @@
 ---
 title: "On the application of domain adaptation for aiding supervised SHM methods"
 date: 2019-01-01
-publishDate: 2020-04-23T09:44:48.064688Z
+publishDate: 2020-05-14T13:58:18.139751Z
 authors: ["Paul Gardner", "Keith Worden"]
 publication_types: ["1"]
 abstract: ""

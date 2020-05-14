@@ -1,7 +1,7 @@
 ---
 title: "Quantification of uncertainty for experimentally obtained modal parameters in the creation of a robust damage model"
 date: 2016-01-01
-publishDate: 2020-04-23T09:44:48.071672Z
+publishDate: 2020-05-14T13:58:18.149724Z
 authors: ["Paul Gardner", "Charles Lord", "Robert J. Barthorpe"]
 publication_types: ["1"]
 abstract: ""

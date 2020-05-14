@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian Process regression"
 date: 2020-01-01
-publishDate: 2020-04-23T09:44:48.057707Z
+publishDate: 2020-05-14T13:58:18.115815Z
 authors: ["Timothy J. Rogers", "Paul Gardner", "Nikolaos Dervilis", "Keith Worden", "Andrew E. Maguire", "Evangelos Papatheou", "Elizabeth J. Cross"]
 publication_types: ["2"]
 abstract: ""
