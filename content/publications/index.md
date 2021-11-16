@@ -14,6 +14,13 @@ tags:
 
 ---
 
+**2022**
+
+<font size="2.5">[On the application of kernelised Bayesian transfer learning to population-based structural health monitoring](gardner-2022-a/gardner-2022-a.pdf)  <br>
+**P. Gardner**, L.A. Bull, N. Dervilis, and K. Worden <br>
+*Mechanical Systems and Signal Processing*, vol. 167b, pp.108519, March 2022 <br>
+**DOI:** [10.1016/j.ymssp.2021.108519](https://doi.org/10.1016/j.ymssp.2021.108519) &nbsp; [[**Code**]](https://github.com/pagard/EngineeringTransferLearning/blob/main/demos/kbtl_demo.md)</font>
+
 **2021**
 
 <font size="2.5">[Overcoming the problem of repair in structural health monitoring: Metric-informed transfer learning](gardner-2021-c/gardner-2021-c.pdf)  <br>
